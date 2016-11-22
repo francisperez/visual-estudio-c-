@@ -1,0 +1,8 @@
+c:\users\franc\documents\visual studio 2012\Projects\wfejerr2\wfejerr2\bin\Debug\wfejerr2.exe.config
+c:\users\franc\documents\visual studio 2012\Projects\wfejerr2\wfejerr2\bin\Debug\wfejerr2.exe
+c:\users\franc\documents\visual studio 2012\Projects\wfejerr2\wfejerr2\bin\Debug\wfejerr2.pdb
+c:\users\franc\documents\visual studio 2012\Projects\wfejerr2\wfejerr2\obj\Debug\wfejerr2.Form1.resources
+c:\users\franc\documents\visual studio 2012\Projects\wfejerr2\wfejerr2\obj\Debug\wfejerr2.Properties.Resources.resources
+c:\users\franc\documents\visual studio 2012\Projects\wfejerr2\wfejerr2\obj\Debug\wfejerr2.csproj.GenerateResource.Cache
+c:\users\franc\documents\visual studio 2012\Projects\wfejerr2\wfejerr2\obj\Debug\wfejerr2.exe
+c:\users\franc\documents\visual studio 2012\Projects\wfejerr2\wfejerr2\obj\Debug\wfejerr2.pdb

@@ -1,0 +1,5 @@
+c:\users\franc\documents\visual studio 2012\Projects\2ejer4\2ejer4\bin\Debug\2ejer4.exe.config
+C:\Users\franc\Documents\Visual Studio 2012\Projects\2ejer4\2ejer4\bin\Debug\2ejer4.exe
+C:\Users\franc\Documents\Visual Studio 2012\Projects\2ejer4\2ejer4\bin\Debug\2ejer4.pdb
+C:\Users\franc\Documents\Visual Studio 2012\Projects\2ejer4\2ejer4\obj\Debug\2ejer4.exe
+C:\Users\franc\Documents\Visual Studio 2012\Projects\2ejer4\2ejer4\obj\Debug\2ejer4.pdb

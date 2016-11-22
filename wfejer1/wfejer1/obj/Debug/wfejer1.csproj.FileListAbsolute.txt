@@ -1,0 +1,9 @@
+c:\users\franc\documents\visual studio 2012\Projects\wfejer1\wfejer1\bin\Debug\wfejer1.exe.config
+c:\users\franc\documents\visual studio 2012\Projects\wfejer1\wfejer1\bin\Debug\wfejer1.exe
+c:\users\franc\documents\visual studio 2012\Projects\wfejer1\wfejer1\bin\Debug\wfejer1.pdb
+c:\users\franc\documents\visual studio 2012\Projects\wfejer1\wfejer1\obj\Debug\wfejer1.csprojResolveAssemblyReference.cache
+c:\users\franc\documents\visual studio 2012\Projects\wfejer1\wfejer1\obj\Debug\wfejer1.Form1.resources
+c:\users\franc\documents\visual studio 2012\Projects\wfejer1\wfejer1\obj\Debug\wfejer1.Properties.Resources.resources
+c:\users\franc\documents\visual studio 2012\Projects\wfejer1\wfejer1\obj\Debug\wfejer1.csproj.GenerateResource.Cache
+c:\users\franc\documents\visual studio 2012\Projects\wfejer1\wfejer1\obj\Debug\wfejer1.exe
+c:\users\franc\documents\visual studio 2012\Projects\wfejer1\wfejer1\obj\Debug\wfejer1.pdb

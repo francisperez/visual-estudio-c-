@@ -1,0 +1,9 @@
+c:\users\franc\documents\visual studio 2012\Projects\wfejerr3\wfejerr3\bin\Debug\wfejerr3.exe.config
+C:\Users\franc\Documents\Visual Studio 2012\Projects\wfejerr3\wfejerr3\bin\Debug\wfejerr3.exe
+C:\Users\franc\Documents\Visual Studio 2012\Projects\wfejerr3\wfejerr3\bin\Debug\wfejerr3.pdb
+C:\Users\franc\Documents\Visual Studio 2012\Projects\wfejerr3\wfejerr3\obj\Debug\wfejerr3.csprojResolveAssemblyReference.cache
+C:\Users\franc\Documents\Visual Studio 2012\Projects\wfejerr3\wfejerr3\obj\Debug\wfejerr3.Form1.resources
+C:\Users\franc\Documents\Visual Studio 2012\Projects\wfejerr3\wfejerr3\obj\Debug\wfejerr3.Properties.Resources.resources
+C:\Users\franc\Documents\Visual Studio 2012\Projects\wfejerr3\wfejerr3\obj\Debug\wfejerr3.csproj.GenerateResource.Cache
+C:\Users\franc\Documents\Visual Studio 2012\Projects\wfejerr3\wfejerr3\obj\Debug\wfejerr3.exe
+C:\Users\franc\Documents\Visual Studio 2012\Projects\wfejerr3\wfejerr3\obj\Debug\wfejerr3.pdb

@@ -1,0 +1,6 @@
+c:\users\franc\documents\visual studio 2012\Projects\2ejer7\2ejer7\bin\Debug\2ejer7.exe.config
+C:\Users\franc\Documents\Visual Studio 2012\Projects\2ejer7\2ejer7\bin\Debug\2ejer7.exe
+C:\Users\franc\Documents\Visual Studio 2012\Projects\2ejer7\2ejer7\bin\Debug\2ejer7.pdb
+C:\Users\franc\Documents\Visual Studio 2012\Projects\2ejer7\2ejer7\obj\Debug\2ejer7.exe
+C:\Users\franc\Documents\Visual Studio 2012\Projects\2ejer7\2ejer7\obj\Debug\2ejer7.pdb
+C:\Users\franc\Documents\Visual Studio 2012\Projects\2ejer7\2ejer7\obj\Debug\2ejer7.csprojResolveAssemblyReference.cache

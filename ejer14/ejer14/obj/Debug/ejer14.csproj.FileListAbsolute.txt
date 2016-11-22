@@ -1,0 +1,5 @@
+c:\users\franc\documents\visual studio 2012\Projects\ejer14\ejer14\bin\Debug\ejer14.exe.config
+c:\users\franc\documents\visual studio 2012\Projects\ejer14\ejer14\bin\Debug\ejer14.exe
+c:\users\franc\documents\visual studio 2012\Projects\ejer14\ejer14\bin\Debug\ejer14.pdb
+c:\users\franc\documents\visual studio 2012\Projects\ejer14\ejer14\obj\Debug\ejer14.exe
+c:\users\franc\documents\visual studio 2012\Projects\ejer14\ejer14\obj\Debug\ejer14.pdb

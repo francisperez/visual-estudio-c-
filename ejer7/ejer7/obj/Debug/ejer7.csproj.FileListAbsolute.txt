@@ -1,0 +1,12 @@
+c:\users\2dam\documents\visual studio 2012\Projects\ejer7\ejer7\bin\Debug\ejer7.exe.config
+C:\Users\2dam\Documents\Visual Studio 2012\Projects\ejer7\ejer7\bin\Debug\ejer7.exe
+C:\Users\2dam\Documents\Visual Studio 2012\Projects\ejer7\ejer7\bin\Debug\ejer7.pdb
+C:\Users\2dam\Documents\Visual Studio 2012\Projects\ejer7\ejer7\obj\Debug\ejer7.csprojResolveAssemblyReference.cache
+C:\Users\2dam\Documents\Visual Studio 2012\Projects\ejer7\ejer7\obj\Debug\ejer7.exe
+C:\Users\2dam\Documents\Visual Studio 2012\Projects\ejer7\ejer7\obj\Debug\ejer7.pdb
+C:\Users\franc\Documents\Visual Studio 2012\Projects\ejer7\ejer7\bin\Debug\ejer7.exe.config
+C:\Users\franc\Documents\Visual Studio 2012\Projects\ejer7\ejer7\obj\Debug\ejer7.exe
+C:\Users\franc\Documents\Visual Studio 2012\Projects\ejer7\ejer7\obj\Debug\ejer7.pdb
+C:\Users\franc\Documents\Visual Studio 2012\Projects\ejer7\ejer7\bin\Debug\ejer7.exe
+C:\Users\franc\Documents\Visual Studio 2012\Projects\ejer7\ejer7\bin\Debug\ejer7.pdb
+C:\Users\franc\Documents\Visual Studio 2012\Projects\ejer7\ejer7\obj\Debug\ejer7.csprojResolveAssemblyReference.cache

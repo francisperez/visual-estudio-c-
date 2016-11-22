@@ -1,0 +1,6 @@
+c:\users\franc\documents\visual studio 2012\Projects\ejer20\ejer20\bin\Debug\ejer20.exe.config
+c:\users\franc\documents\visual studio 2012\Projects\ejer20\ejer20\bin\Debug\ejer20.exe
+c:\users\franc\documents\visual studio 2012\Projects\ejer20\ejer20\bin\Debug\ejer20.pdb
+c:\users\franc\documents\visual studio 2012\Projects\ejer20\ejer20\obj\Debug\ejer20.csprojResolveAssemblyReference.cache
+c:\users\franc\documents\visual studio 2012\Projects\ejer20\ejer20\obj\Debug\ejer20.exe
+c:\users\franc\documents\visual studio 2012\Projects\ejer20\ejer20\obj\Debug\ejer20.pdb

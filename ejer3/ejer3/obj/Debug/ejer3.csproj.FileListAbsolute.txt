@@ -1,0 +1,8 @@
+c:\users\2dam\documents\visual studio 2012\Projects\ejer3\ejer3\bin\Debug\ejer3.exe.config
+C:\Users\2dam\Documents\Visual Studio 2012\Projects\ejer3\ejer3\bin\Debug\ejer3.exe
+C:\Users\2dam\Documents\Visual Studio 2012\Projects\ejer3\ejer3\bin\Debug\ejer3.pdb
+C:\Users\2dam\Documents\Visual Studio 2012\Projects\ejer3\ejer3\obj\Debug\ejer3.exe
+C:\Users\2dam\Documents\Visual Studio 2012\Projects\ejer3\ejer3\obj\Debug\ejer3.pdb
+C:\Users\franc\Documents\Visual Studio 2012\Projects\ejer3\ejer3\bin\Debug\ejer3.exe.config
+C:\Users\franc\Documents\Visual Studio 2012\Projects\ejer3\ejer3\obj\Debug\ejer3.exe
+C:\Users\franc\Documents\Visual Studio 2012\Projects\ejer3\ejer3\obj\Debug\ejer3.pdb

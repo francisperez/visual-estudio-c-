@@ -1,0 +1,6 @@
+c:\users\franc\documents\visual studio 2012\Projects\empleadosMatriz\empleadosMatriz\bin\Debug\empleadosMatriz.exe.config
+c:\users\franc\documents\visual studio 2012\Projects\empleadosMatriz\empleadosMatriz\bin\Debug\empleadosMatriz.exe
+c:\users\franc\documents\visual studio 2012\Projects\empleadosMatriz\empleadosMatriz\bin\Debug\empleadosMatriz.pdb
+c:\users\franc\documents\visual studio 2012\Projects\empleadosMatriz\empleadosMatriz\obj\Debug\empleadosMatriz.csprojResolveAssemblyReference.cache
+c:\users\franc\documents\visual studio 2012\Projects\empleadosMatriz\empleadosMatriz\obj\Debug\empleadosMatriz.exe
+c:\users\franc\documents\visual studio 2012\Projects\empleadosMatriz\empleadosMatriz\obj\Debug\empleadosMatriz.pdb
